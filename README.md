@@ -9,3 +9,5 @@ An emtpy Total.js project. This project will be used to demonstrate how to conta
 - run `$ node debug.js`
 - open browser `http://127.0.0.1:8000`
 
+# Guidelines for testing this project as a docker container
+- Following the guildelines given in this [link](https://medium.com/@aliartiza75/deploy-the-total-js-application-as-a-docker-container-e7116cecd47c)
